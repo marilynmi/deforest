@@ -1,0 +1,1 @@
+Result using 200 images and 1000 trees in random forest.
