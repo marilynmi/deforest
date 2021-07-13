@@ -1,0 +1,1 @@
+Result using rondonia image and 100 trees in random forest.
